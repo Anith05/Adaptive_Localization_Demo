@@ -47,8 +47,10 @@ Adaptive_Localization_Demo/
 ### Run Simulation
 
 ```bash
+
 cd Adaptive_Localization_Demo
-python sim/run_simulation.py
+python sim/run_condition_1_realtime_comparison.py
+python sim/run_condition_2_solo_return.py
 ```
 
 ### Controls
